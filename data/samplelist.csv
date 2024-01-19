@@ -1,0 +1,5 @@
+name,condition,R1
+Library_1,2x,/shared/ngs/illumina/ckikawa/231115_M08474_0061_000000000-L5HJ4/Unaligned/Project_ckikawa/Library_1_2x_S4_R1_001.fastq.gz
+Library_1,4xplus,/shared/ngs/illumina/ckikawa/231115_M08474_0061_000000000-L5HJ4/Unaligned/Project_ckikawa/Library_1_4xplus_S5_R1_001.fastq.gz
+Library_2,2x,/shared/ngs/illumina/ckikawa/231115_M08474_0061_000000000-L5HJ4/Unaligned/Project_ckikawa/Library_2_2x_S6_R1_001.fastq.gz
+Library_2,4xplus,/shared/ngs/illumina/ckikawa/231115_M08474_0061_000000000-L5HJ4/Unaligned/Project_ckikawa/Library_2_4xplus_S7_R1_001.fastq.gz

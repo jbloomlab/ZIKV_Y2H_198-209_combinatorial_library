@@ -1,0 +1,19 @@
+name: EvansLab_combinatorial_NS5
+channels:
+  - bioconda
+  - r
+  - conda-forge
+  - defaults
+  - schrodinger
+dependencies:
+  - altair=5.2
+  - imagemagick
+  - jupyterlab
+  - mamba
+  - pandas
+  - pip
+  - python
+  - scipy
+  - seaborn
+  - pip:
+    - biopython
